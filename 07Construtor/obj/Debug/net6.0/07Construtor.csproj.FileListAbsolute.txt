@@ -1,0 +1,15 @@
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\POO\07Construtor\bin\Debug\net6.0\07Construtor.exe
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\POO\07Construtor\bin\Debug\net6.0\07Construtor.deps.json
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\POO\07Construtor\bin\Debug\net6.0\07Construtor.runtimeconfig.json
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\POO\07Construtor\bin\Debug\net6.0\07Construtor.dll
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\POO\07Construtor\bin\Debug\net6.0\07Construtor.pdb
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\POO\07Construtor\obj\Debug\net6.0\07Construtor.csproj.AssemblyReference.cache
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\POO\07Construtor\obj\Debug\net6.0\07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\POO\07Construtor\obj\Debug\net6.0\07Construtor.AssemblyInfoInputs.cache
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\POO\07Construtor\obj\Debug\net6.0\07Construtor.AssemblyInfo.cs
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\POO\07Construtor\obj\Debug\net6.0\07Construtor.csproj.CoreCompileInputs.cache
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\POO\07Construtor\obj\Debug\net6.0\07Construtor.dll
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\POO\07Construtor\obj\Debug\net6.0\refint\07Construtor.dll
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\POO\07Construtor\obj\Debug\net6.0\07Construtor.pdb
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\POO\07Construtor\obj\Debug\net6.0\07Construtor.genruntimeconfig.cache
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\POO\07Construtor\obj\Debug\net6.0\ref\07Construtor.dll
