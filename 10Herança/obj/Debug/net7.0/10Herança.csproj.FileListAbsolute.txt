@@ -1,0 +1,15 @@
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Conceitos\10Herança\bin\Debug\net7.0\10Herança.exe
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Conceitos\10Herança\bin\Debug\net7.0\10Herança.deps.json
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Conceitos\10Herança\bin\Debug\net7.0\10Herança.runtimeconfig.json
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Conceitos\10Herança\bin\Debug\net7.0\10Herança.dll
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Conceitos\10Herança\bin\Debug\net7.0\10Herança.pdb
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Conceitos\10Herança\obj\Debug\net7.0\10Herança.csproj.AssemblyReference.cache
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Conceitos\10Herança\obj\Debug\net7.0\10Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Conceitos\10Herança\obj\Debug\net7.0\10Herança.AssemblyInfoInputs.cache
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Conceitos\10Herança\obj\Debug\net7.0\10Herança.AssemblyInfo.cs
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Conceitos\10Herança\obj\Debug\net7.0\10Herança.csproj.CoreCompileInputs.cache
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Conceitos\10Herança\obj\Debug\net7.0\10Herança.dll
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Conceitos\10Herança\obj\Debug\net7.0\refint\10Herança.dll
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Conceitos\10Herança\obj\Debug\net7.0\10Herança.pdb
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Conceitos\10Herança\obj\Debug\net7.0\10Herança.genruntimeconfig.cache
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Conceitos\10Herança\obj\Debug\net7.0\ref\10Herança.dll

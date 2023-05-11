@@ -1,10 +1,10 @@
 class Pessoa
 {
-  private string nome;
+  private string nome = "";
 
-  public string Nome
+  public string Nome // Tbm dá pra fazer assim  => { get; set; }
   {
-    get{return this.nome;}
-    set{this.nome=value;}
+    get { return this.nome; }
+    set { this.nome = value; }
   }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jane Vieira\\OneDrive\\Documentos\\JOÃO GABRIEL\\POO\\09This\\09This.csproj": {}
+    "C:\\Users\\Jane Vieira\\OneDrive\\Documentos\\JOÃO GABRIEL\\www\\POO\\Conceitos\\09This\\09This.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jane Vieira\\OneDrive\\Documentos\\JOÃO GABRIEL\\POO\\09This\\09This.csproj": {
+    "C:\\Users\\Jane Vieira\\OneDrive\\Documentos\\JOÃO GABRIEL\\www\\POO\\Conceitos\\09This\\09This.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jane Vieira\\OneDrive\\Documentos\\JOÃO GABRIEL\\POO\\09This\\09This.csproj",
+        "projectUniqueName": "C:\\Users\\Jane Vieira\\OneDrive\\Documentos\\JOÃO GABRIEL\\www\\POO\\Conceitos\\09This\\09This.csproj",
         "projectName": "09This",
-        "projectPath": "C:\\Users\\Jane Vieira\\OneDrive\\Documentos\\JOÃO GABRIEL\\POO\\09This\\09This.csproj",
+        "projectPath": "C:\\Users\\Jane Vieira\\OneDrive\\Documentos\\JOÃO GABRIEL\\www\\POO\\Conceitos\\09This\\09This.csproj",
         "packagesPath": "C:\\Users\\Jane Vieira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jane Vieira\\OneDrive\\Documentos\\JOÃO GABRIEL\\POO\\09This\\obj\\",
+        "outputPath": "C:\\Users\\Jane Vieira\\OneDrive\\Documentos\\JOÃO GABRIEL\\www\\POO\\Conceitos\\09This\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jane Vieira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
