@@ -1,7 +1,7 @@
 class Pessoa
 {
 
-  protected string nome;
+  protected string nome = "";
   protected int idade;
 
   protected void mensagemPessoa()
